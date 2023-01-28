@@ -1,0 +1,500 @@
+Movie_Name,Director(s),Genre(s)
+The Godfather 1972,Francis Ford Coppola,"Drama, Thriller, Crime"
+Citizen Kane 1941,Orson Welles,"Drama, Mystery"
+Rear Window 1954,Alfred Hitchcock,"Mystery, Thriller"
+Casablanca 1943,Michael Curtiz,"Drama, Romance, War"
+Boyhood 2014,Richard Linklater,Drama
+Three Colors: Red 1994,Krzysztof Kieslowski,"Drama, Mystery, Romance"
+Vertigo 1958,Alfred Hitchcock,"Mystery, Thriller, Romance"
+Notorious 1946,Alfred Hitchcock,"Drama, Thriller, Romance, Film-Noir"
+Singin' in the Rain 1952,"Gene Kelly, Stanley Donen","Comedy, Romance, Musical"
+City Lights 1931,Charles Chaplin,"Drama, Comedy, Romance"
+Moonlight 2016,Barry Jenkins,Drama
+Intolerance 1916,D.W. Griffith,"Drama, History"
+Pinocchio 1940,"Ben Sharpsteen, Bill Roberts, Hamilton Luske, Jack Kinney, Norman Ferguson, T. Hee, Wilfred Jackson","Fantasy, Comedy, Animation, Family, Musical"
+Touch of Evil 1958,Orson Welles,"Drama, Thriller, Crime, Film-Noir"
+Seven Samurai 1956,Akira Kurosawa,"Action, Adventure, Drama"
+Au hasard Balthazar 1966,Robert Bresson,"Drama, Crime"
+The Lady Vanishes 1938,Alfred Hitchcock,"Mystery, Thriller"
+The Treasure of the Sierra Madre 1948,John Huston,"Adventure, Drama, Western"
+Pan's Labyrinth 2006,Guillermo del Toro,"Drama, Mystery, Thriller, Fantasy, War"
+Some Like It Hot 1959,Billy Wilder,"Comedy, Romance"
+North by Northwest 1959,Alfred Hitchcock,"Action, Adventure, Mystery, Thriller"
+Hoop Dreams 1994,Steve James,"Drama, Sport, Documentary"
+Rashomon 1951,Akira Kurosawa,"Drama, Mystery, Crime"
+All About Eve 1950,Joseph L. Mankiewicz,Drama
+Jules and Jim 1962,François Truffaut,"Drama, Romance"
+The Wild Bunch 1969,Sam Peckinpah,"Action, Adventure, Western"
+My Left Foot 1989,Jim Sheridan,"Biography, Drama"
+The Third Man 1949,Carol Reed,"Mystery, Thriller, Film-Noir"
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 1964,Stanley Kubrick,"Thriller, Comedy"
+"Quo Vadis, Aida? 2021",Jasmila Zbanic,"Drama, History, War"
+Psycho 1960,Alfred Hitchcock,"Mystery, Thriller, Horror"
+Gone with the Wind 1940,"George Cukor, Sam Wood, Victor Fleming","Drama, History, Romance, War"
+"4 Months, 3 Weeks and 2 Days 2008",Cristian Mungiu,Drama
+Battleship Potemkin 1926,Sergei M. Eisenstein,"Drama, History, Thriller, War"
+A Streetcar Named Desire 1951,Elia Kazan,Drama
+The Maltese Falcon 1941,John Huston,"Mystery, Film-Noir"
+American Graffiti 1973,George Lucas,"Drama, Comedy"
+Dumbo 1941,"Ben Sharpsteen, Bill Roberts, Jack Kinney, John Elliotte, Norman Ferguson, Samuel Armstrong, Wilfred Jackson","Drama, Animation, Family, Musical"
+Roma 2018,Alfonso Cuarón,Drama
+Man with a Movie Camera 1929,Dziga Vertov,"Music, Documentary"
+Parasite 2019,Joon-ho Bong,"Drama, Thriller, Comedy"
+Ran 1985,Akira Kurosawa,"Action, Drama, War"
+"Summer of Soul (...Or, When the Revolution Could Not Be Televised) 2021",Ahmir-Khalib Thompson,Documentary
+The Shop Around the Corner 1940,Ernst Lubitsch,"Drama, Comedy, Romance"
+12 Angry Men 1957,Sidney Lumet,"Drama, Crime"
+Rosemary's Baby 1968,Roman Polanski,"Drama, Horror"
+12 Years a Slave 2013,Steve McQueen,"Biography, Drama, History"
+Manchester by the Sea 2016,Kenneth Lonergan,Drama
+Killer of Sheep 2007,Charles Burnett,Drama
+Nashville 1975,Robert Altman,"Drama, Comedy, Music"
+Ratatouille 2007,Brad Bird,"Fantasy, Comedy, Animation, Family"
+The Grapes of Wrath 1940,John Ford,"Drama, History"
+Children of Paradise (1945) 2012,Marcel Carné,"Drama, Romance"
+Mean Streets 1973,Martin Scorsese,"Drama, Thriller, Crime"
+Sansho the Bailiff 1955,Kenji Mizoguchi,Drama
+The Lady Eve 1941,Preston Sturges,"Comedy, Romance"
+Gravity 2013,Alfonso Cuarón,"Sci-Fi, Drama, Mystery, Thriller"
+Fantasia 1940,"Ben Sharpsteen, Bill Roberts, David Hand, Ford Beebe Jr., Hamilton Luske, James Algar, Jim Handley, Norman Ferguson, Paul Satterfield, Samuel Armstrong, T. Hee, Wilfred Jackson","Fantasy, Music, Animation, Family"
+Spirited Away 2002,Hayao Miyazaki,"Adventure, Fantasy, Animation, Family"
+Beauty and the Beast 1991,"Gary Trousdale, Kirk Wise","Fantasy, Romance, Animation, Family, Musical"
+Small Axe: Lovers Rock 2020,Steve McQueen,Drama
+Toy Story 1995,John Lasseter,"Adventure, Fantasy, Comedy, Animation, Family"
+The Bride of Frankenstein 1935,James Whale,"Sci-Fi, Drama, Horror"
+Don't Look Now 1973,Nicolas Roeg,"Drama, Thriller, Horror"
+Aftersun 2022,Charlotte Wells,Drama
+The Social Network 2010,David Fincher,"Biography, Drama, History, Comedy"
+My Fair Lady 1964,George Cukor,"Drama, Romance, Family, Musical"
+Portrait of a Lady on Fire 2019,Céline Sciamma,"Drama, History, Romance"
+I Am Not Your Negro 2016,Raoul Peck,Documentary
+Woodstock 1970,Michael Wadleigh,"History, Music, Documentary"
+Rocks 2021,Sarah Gavron,Drama
+Snow White and the Seven Dwarfs 1938,"Ben Sharpsteen, David Hand, Larry Morey, Perce Pearce, Wilfred Jackson, William Cottrell","Fantasy, Romance, Animation, Family, Musical"
+Amour 2012,Michael Haneke,"Drama, Romance"
+The Hurt Locker 2009,Kathryn Bigelow,"Action, Drama, Thriller, War"
+Anatomy of a Murder 1959,Otto Preminger,"Drama, Mystery, Thriller, Crime"
+Zero Dark Thirty 2012,Kathryn Bigelow,"Action, Drama, History, Thriller"
+Collective 2020,Alexander Nanau,Documentary
+A Separation 2011,Asghar Farhadi,Drama
+Double Indemnity 1944,Billy Wilder,"Drama, Mystery, Thriller, Crime, Film-Noir"
+Sunrise 1927,F.W. Murnau,"Drama, Romance"
+WALL-E 2008,Andrew Stanton,"Adventure, Sci-Fi, Romance, Animation, Family"
+Carol 2015,Todd Haynes,"Drama, Romance"
+Before Midnight 2013,Richard Linklater,"Drama, Romance"
+Dunkirk 2017,Christopher Nolan,"Action, Drama, History, Thriller, War"
+The Man Who Shot Liberty Valance 1962,John Ford,"Drama, Western"
+The Searchers 1956,John Ford,"Adventure, Drama, Western"
+45 Years 2015,Andrew Haigh,"Drama, Romance"
+Taxi Driver 1976,Martin Scorsese,"Drama, Thriller, Crime"
+The Servant 1964,Joseph Losey,Drama
+Pulp Fiction 1994,Quentin Tarantino,"Drama, Thriller, Crime"
+The Manchurian Candidate 1962,John Frankenheimer,"Drama, Mystery, Thriller"
+Mr. Turner 2014,Mike Leigh,"Biography, Drama, History"
+The Irishman 2019,Martin Scorsese,"Biography, Drama, History, Thriller, Crime"
+Amazing Grace 2018,"Alan Elliott, Sydney Pollack",Documentary
+Grave of the Fireflies (1988) 1989,Isao Takahata,"Drama, War, Animation"
+The Wild Child 1970,François Truffaut,Drama
+Shadow of a Doubt 1943,Alfred Hitchcock,Thriller
+Inside Out 2015,"Pete Docter, Ronaldo Del Carmen","Adventure, Drama, Fantasy, Comedy, Animation, Family"
+Sideways 2004,Alexander Payne,"Drama, Comedy, Romance"
+Schindler's List 1993,Steven Spielberg,"Biography, Drama, History, War"
+The Apartment 1960,Billy Wilder,"Drama, Comedy, Romance"
+Apocalypse Now 1979,Francis Ford Coppola,"Action, Drama, War"
+The Gunfighter 1950,Henry King,Western
+We Were Here 2011,"Bill Weber, David Weissman",Documentary
+Faces Places 2017,"Agnès Varda, JR",Documentary
+Chimes at Midnight 1967,Orson Welles,"Drama, History, Comedy, War"
+The Lord of the Rings: The Return of the King 2003,Peter Jackson,"Action, Adventure, Fantasy"
+Call Me by Your Name 2017,Luca Guadagnino,"Drama, Romance"
+Carlos 2010,Olivier Assayas,"Biography, Drama, History, Thriller, Crime"
+Marriage Story 2019,Noah Baumbach,"Drama, Comedy, Romance"
+The French Connection 1971,William Friedkin,"Action, Drama, Thriller, Crime"
+La La Land 2016,Damien Chazelle,"Drama, Comedy, Romance, Musical"
+"Crouching Tiger, Hidden Dragon 2000",Ang Lee,"Action, Adventure, Drama, Fantasy, Romance"
+"Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles 1978",Chantal Akerman,Drama
+Petite Maman 2021,Céline Sciamma,Drama
+The Magnificent Ambersons 1942,"Fred Fleck, Orson Welles, Robert Wise","Drama, Romance"
+Reversal of Fortune 1990,Barbet Schroeder,"Drama, Mystery"
+David Byrne’s American Utopia 2020,Spike Lee,"Music, Musical, Documentary"
+Lady Bird 2017,Greta Gerwig,"Drama, Comedy"
+Saint Omer 2023,Alice Diop,Drama
+Shoplifters 2018,Hirokazu Koreeda,"Drama, Crime"
+Shoah: Four Sisters 2018,Claude Lanzmann,"History, Documentary"
+The 39 Steps 1935,Alfred Hitchcock,"Mystery, Thriller, Film-Noir"
+Duck Soup 1933,Leo McCarey,"Comedy, War, Musical"
+Days of Heaven 1978,Terrence Malick,"Drama, Romance"
+Toni Erdmann 2016,Maren Ade,"Drama, Comedy"
+Yi Yi 2000,Edward Yang,"Drama, Romance, Music"
+McCabe & Mrs. Miller 1971,Robert Altman,"Drama, Western"
+Inside Llewyn Davis 2013,"Ethan Coen, Joel Coen","Drama, Music"
+The Best Years of Our Lives 1946,William Wyler,"Drama, Romance, War"
+Stagecoach 1939,John Ford,"Adventure, Drama, Western"
+Sherpa 2015,Jennifer Peedom,Documentary
+There Will Be Blood 2007,Paul Thomas Anderson,"Drama, Thriller"
+Badlands 1973,Terrence Malick,"Drama, Crime"
+The Last Picture Show 1971,Peter Bogdanovich,Drama
+Do the Right Thing 1989,Spike Lee,"Drama, Comedy"
+Sita Sings the Blues 2009,Nina Paley,"Fantasy, Comedy, Romance, Animation, Musical"
+The Decline of Western Civilization 1981,Penelope Spheeris,"History, Music, Documentary"
+Yojimbo 1961,Akira Kurosawa,"Action, Drama, Thriller"
+Rio Bravo 1959,Howard Hawks,"Action, Drama, Western"
+Brother's Keeper 1992,"Bruce Sinofsky, Joe Berlinger","Mystery, Crime, Documentary"
+Sankofa 1993,Haile Gerima,Drama
+Crumb 1995,Terry Zwigoff,"Biography, Documentary"
+Spotlight 2015,Thomas McCarthy,"Biography, Drama, History, Thriller"
+The Band Wagon 1953,Vincente Minnelli,"Comedy, Romance, Musical"
+One More Time with Feeling 2016,Andrew Dominik,"Music, Documentary"
+Ride the High Country 1962,Sam Peckinpah,"Drama, Western"
+The Diving Bell and the Butterfly 2007,Julian Schnabel,"Biography, Drama"
+Invasion of the Body Snatchers 1956,Don Siegel,"Sci-Fi, Drama, Horror"
+Mr. Bachmann and His Class 2022,Maria Speth,Documentary
+The Class 2008,Laurent Cantet,Drama
+Platoon 1986,Oliver Stone,"Drama, War"
+35 Shots of Rum 2009,Claire Denis,Drama
+Apocalypse Now: Final Cut 2019,Francis Ford Coppola,"Drama, Mystery, War"
+Chinatown 1974,Roman Polanski,"Drama, Mystery, Thriller, Crime"
+The Florida Project 2017,Sean Baker,Drama
+Timbuktu 2015,Abderrahmane Sissako,Drama
+Frenzy 1972,Alfred Hitchcock,Thriller
+Brief Encounter 1946,David Lean,"Drama, Romance"
+No Country for Old Men 2007,"Ethan Coen, Joel Coen","Drama, Thriller, Crime, Western"
+Cool Hand Luke 1967,Stuart Rosenberg,"Drama, Crime"
+Little Women 1933,George Cukor,"Drama, Romance, Family"
+Maborosi 1997,Hirokazu Koreeda,Drama
+Top Hat 1935,Mark Sandrich,"Comedy, Romance, Musical"
+Apocalypse Now Redux 2001,Francis Ford Coppola,"Action, Drama, War"
+Never Rarely Sometimes Always 2020,Eliza Hittman,Drama
+Annie Hall 1977,Woody Allen,"Drama, Comedy, Romance"
+The Lord of the Rings: The Fellowship of the Ring 2001,Peter Jackson,"Action, Adventure, Fantasy"
+Quiz Show 1994,Robert Redford,"Drama, History"
+Leviathan 2014,Andrei Zvyagintsev,Drama
+Werckmeister Harmonies 2001,"Ágnes Hranitzky, Béla Tarr","Sci-Fi, Drama, Mystery, Thriller, Horror, Crime"
+Toy Story 3 2010,Lee Unkrich,"Adventure, Fantasy, Comedy, Animation, Family"
+The Souvenir 2019,Joanna Hogg,"Drama, Mystery, Romance"
+This Is Spinal Tap 1984,Rob Reiner,"Comedy, Music"
+The Look of Silence 2015,Joshua Oppenheimer,Documentary
+Tower 2016,Keith Maitland,"History, Crime, Animation, Documentary"
+Drive My Car 2021,Ryûsuke Hamaguchi,Drama
+Moolaadé 2004,Ousmane Sembene,Drama
+Atanarjuat: The Fast Runner 2002,Zacharias Kunuk,"Drama, Fantasy"
+Ikiru 1956,Akira Kurosawa,Drama
+Time 2020,Garrett Bradley,Documentary
+Gavagai 2018,Rob Tregenza,Drama
+The Man Who Would Be King 1975,John Huston,Adventure
+Nomadland 2020,Chloé Zhao,Drama
+The Killing 1956,Stanley Kubrick,"Drama, Thriller, Crime, Film-Noir"
+Swing Time 1936,George Stevens,"Comedy, Romance, Musical"
+Breaking Away 1979,Peter Yates,"Drama, Sport, Comedy, Romance"
+After Life 1999,Hirokazu Koreeda,"Drama, Fantasy"
+Son of Saul 2015,László Nemes,"Drama, History, Thriller, Horror, War"
+Love Affair 1939,Leo McCarey,"Drama, Comedy, Romance"
+Frankenstein 1931,James Whale,"Sci-Fi, Drama, Horror"
+8½ 1963,Federico Fellini,Drama
+Little Women 2019,Greta Gerwig,"Drama, Romance"
+E.T. The Extra-Terrestrial 1982,Steven Spielberg,"Adventure, Sci-Fi, Drama, Fantasy, Family"
+The African Queen 1952,John Huston,"Adventure, Drama, Romance, War"
+The Triplets of Belleville 2003,Sylvain Chomet,"Adventure, Comedy, Music, Animation"
+The Queen 2006,Stephen Frears,"Biography, Drama"
+Flee 2021,Jonas Poher Rasmussen,"Biography, Drama, Animation, Documentary"
+All Quiet on the Western Front 1930,Lewis Milestone,"Drama, War"
+EX LIBRIS: The New York Public Library 2017,Frederick Wiseman,Documentary
+A Bread Factory Part Two: Walk With Me a While 2018,Patrick Wang,"Drama, Comedy"
+The Ladykillers 1956,Alexander Mackendrick,"Comedy, Crime"
+Young Mr. Lincoln 1939,John Ford,"Biography, Drama"
+Stories We Tell 2013,Sarah Polley,Documentary
+A Bread Factory Part One: For the Sake of Gold 2018,Patrick Wang,"Drama, Comedy"
+The Act of Killing 2013,"Anonymous, Christine Cynn, Joshua Oppenheimer","History, Crime, Documentary"
+On the Waterfront 1954,Elia Kazan,"Drama, Romance, Crime"
+Jafar Panahi's Taxi 2015,Jafar Panahi,"Drama, Comedy"
+Ida 2014,Pawel Pawlikowski,Drama
+Beau Travail 2000,Claire Denis,Drama
+Her 2013,Spike Jonze,"Sci-Fi, Drama, Comedy, Romance"
+Uncut Gems 2019,"Ben Safdie, Joshua Safdie","Drama, Mystery, Thriller, Comedy, Crime"
+Waltz with Bashir 2008,Ari Folman,"Biography, Drama, War, Animation"
+"This Is Not a Burial, It's a Resurrection 2021",Lemohang Jeremiah Mosese,Drama
+They Shall Not Grow Old 2018,Peter Jackson,"History, War, Documentary"
+Secrets & Lies 1996,Mike Leigh,"Drama, Comedy"
+Memoria 2021,Apichatpong Weerasethakul,"Sci-Fi, Drama"
+An Autumn Afternoon 1964,Yasujiro Ozu,Drama
+Patton 1970,Franklin J. Schaffner,"Biography, Drama, War"
+The Favourite 2018,Giorgos Lanthimos,"Biography, Drama, History, Comedy"
+The Sweet Hereafter 1997,Atom Egoyan,Drama
+TÁR 2022,Todd Field,"Drama, Music"
+The Right Stuff 1983,Philip Kaufman,"Adventure, Biography, Drama, History"
+Bambi 1942,"Bill Roberts, David Hand, Graham Heid, James Algar, Norman Wright, Paul Satterfield, Samuel Armstrong","Drama, Animation, Family"
+Bringing Up Baby 1938,Howard Hawks,"Comedy, Romance, Family"
+The Gatekeepers 2013,Dror Moreh,Documentary
+Nostalgia for the Light 2011,Patricio Guzmán,"Drama, Documentary"
+The Rider 2018,Chloé Zhao,"Adventure, Drama, Comedy, Romance, Western, Music"
+David Copperfield 1935,George Cukor,"Adventure, Drama, Romance"
+Saving Private Ryan 1998,Steven Spielberg,"Action, Drama, War"
+Burning 2018,Chang-dong Lee,"Drama, Mystery"
+The Worst Person in the World 2022,Joachim Trier,"Drama, Comedy"
+Ben-Hur 1959,William Wyler,"Adventure, Drama, History, War"
+After Hours 1985,Martin Scorsese,"Thriller, Comedy"
+The Crying Game 1992,Neil Jordan,"Thriller, Romance, Crime"
+Great Expectations 1947,David Lean,"Adventure, Drama, Mystery, Romance"
+All the Beauty and the Bloodshed 2022,Laura Poitras,Documentary
+Winter's Bone 2010,Debra Granik,"Drama, Thriller"
+Gett: The Trial of Viviane Amsalem 2015,"Ronit Elkabetz, Shlomi Elkabetz",Drama
+I Called Him Morgan 2017,Kasper Collin,"Drama, History, Music, Documentary"
+Close Encounters of the Third Kind 1977,Steven Spielberg,"Adventure, Sci-Fi, Drama"
+The Godfather: Part II 1974,Francis Ford Coppola,"Drama, Thriller, Crime"
+Red Beard 1968,Akira Kurosawa,Drama
+The Hustler 1961,Robert Rossen,"Drama, Sport"
+Hit the Road 2022,Panah Panahi,Drama
+L.A. Confidential 1997,Curtis Hanson,"Drama, Mystery, Thriller, Crime"
+Procession 2021,Robert Greene,Documentary
+Bloody Sunday 2002,Paul Greengrass,"Drama, History, War"
+My Voyage to Italy 2001,Martin Scorsese,Documentary
+Phantom Thread 2017,Paul Thomas Anderson,"Drama, Romance, Crime"
+Goodfellas 1990,Martin Scorsese,"Biography, Drama, Crime"
+Wojnarowicz 2021,Chris McKim,Documentary
+Paths of the Soul 2016,Yang Zhang,Drama
+It's Such a Beautiful Day 2012,Don Hertzfeldt,"Sci-Fi, Drama, Fantasy, Comedy, Animation"
+My Perestroika 2011,Robin Hessman,"Biography, History, Family, Documentary, News"
+This Is Not a Film 2012,"Jafar Panahi, Mojtaba Mirtahmasb",Documentary
+The Birds 1963,Alfred Hitchcock,"Drama, Mystery, Horror, Romance"
+To Have and Have Not 1945,Howard Hawks,"Adventure, Thriller, Comedy, Romance, War, Film-Noir"
+Finding Nemo 2003,"Andrew Stanton, Lee Unkrich","Adventure, Comedy, Animation, Family"
+Topsy-Turvy 1999,Mike Leigh,"Biography, Drama, Comedy, Music"
+Samurai Rebellion 1967,Masaki Kobayashi,Drama
+King Kong 1933,"Ernest B. Schoedsack, Merian C. Cooper","Adventure, Sci-Fi, Horror"
+Small Axe: Mangrove 2020,Steve McQueen,Drama
+The Incredibles 2004,Brad Bird,"Action, Adventure, Animation, Family"
+Before Sunset 2004,Richard Linklater,"Drama, Romance"
+Being John Malkovich 1999,Spike Jonze,"Drama, Fantasy, Comedy, Romance"
+A Prophet 2010,Jacques Audiard,"Drama, Crime"
+Hard to Be a God 2015,Aleksei German,"Sci-Fi, Drama"
+Almost Famous 2000,Cameron Crowe,"Drama, Music"
+High and Low 1963,Akira Kurosawa,"Drama, Mystery, Thriller, Crime"
+Paths of Glory 1957,Stanley Kubrick,"Drama, War"
+Cold War 2018,Pawel Pawlikowski,"Drama, Romance, Music"
+Big Men 2014,Rachel Boynton,Documentary
+American Splendor 2003,"Robert Pulcini, Shari Springer Berman","Biography, Drama, Comedy"
+Hannah and Her Sisters 1986,Woody Allen,"Drama, Comedy, Romance"
+The Circus 1929,Charles Chaplin,"Comedy, Romance"
+Lost in Translation 2003,Sofia Coppola,"Drama, Romance"
+The Tale 2018,Jennifer Fox,"Drama, Mystery, Thriller"
+Licorice Pizza 2021,Paul Thomas Anderson,"Drama, Comedy"
+Paterson 2016,Jim Jarmusch,"Drama, Comedy, Romance"
+Gosford Park 2001,Robert Altman,"Drama, Mystery, Comedy"
+The Fits 2016,Anna Rose Holmer,Drama
+The Souvenir: Part II 2021,Joanna Hogg,"Drama, Romance"
+Mad Max: Fury Road 2015,George Miller,"Action, Adventure, Sci-Fi, Thriller"
+United 93 2006,Paul Greengrass,"Drama, History, Crime"
+Capturing the Friedmans 2003,Andrew Jarecki,"Biography, Mystery, Crime, Documentary"
+The Truman Show 1998,Peter Weir,Drama
+American Hustle 2013,David O. Russell,"Drama, History, Thriller, Crime"
+Blue Is the Warmest Color 2013,Abdel Kechiche,"Drama, Romance"
+Star Wars: Episode IV - A New Hope 1977,George Lucas,"Action, Adventure, Sci-Fi, Fantasy"
+Persepolis 2007,"Marjane Satrapi, Vincent Paronnaud","Biography, Drama, War, Animation"
+The Age of Innocence 1993,Martin Scorsese,"Drama, Romance"
+Once 2007,John Carney,"Drama, Romance, Music"
+First Cow 2020,Kelly Reichardt,Drama
+The Best of Youth 2005,Marco Tullio Giordana,"Drama, Romance"
+The Overnighters 2014,Jesse Moss,"Drama, Documentary"
+The Lives of Others 2006,Florian Henckel von Donnersmarck,"Drama, Thriller"
+Two-Lane Blacktop 1971,Monte Hellman,Drama
+House of Flying Daggers 2004,Yimou Zhang,"Action, Adventure, Drama, Fantasy, Romance"
+63 Up 2019,Michael Apted,Documentary
+Minding the Gap 2018,Bing Liu,Documentary
+Treasure Island 1950,Byron Haskin,"Adventure, Family"
+Searching for Bobby Fischer 1993,Steven Zaillian,"Biography, Drama"
+Hamilton 2020,Thomas Kail,"Biography, Drama, History, Musical"
+National Gallery 2014,Frederick Wiseman,"History, Documentary"
+Assault on Precinct 13 1976,John Carpenter,"Action, Thriller, Crime"
+Man on Wire 2008,James Marsh,"Crime, Documentary"
+Three Minutes: A Lengthening 2022,Bianca Stigter,Documentary
+For Sama 2019,"Edward Watts, Waad Al-Khateab",Documentary
+Force of Evil 1949,Abraham Polonsky,"Drama, Crime, Film-Noir"
+The Hidden Fortress 1960,Akira Kurosawa,"Adventure, Drama"
+Still Walking 2009,Hirokazu Koreeda,Drama
+Gangs of Wasseypur 2015,Anurag Kashyap,"Action, Drama, Thriller, Crime"
+The Last Detail 1973,Hal Ashby,"Drama, Comedy"
+When the Levees Broke: A Requiem in Four Acts 2006,Spike Lee,Documentary
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan 2006,Larry Charles,Comedy
+Minari 2020,Lee Isaac Chung,Drama
+Whiplash 2014,Damien Chazelle,"Drama, Music"
+Barry Lyndon 1975,Stanley Kubrick,"Adventure, Drama, History, War"
+The Farewell 2019,Lulu Wang,"Drama, Comedy"
+Elle 2016,Paul Verhoeven,"Drama, Thriller, Comedy"
+The Tale of The Princess Kaguya 2014,Isao Takahata,"Drama, Fantasy, Animation"
+Uncertain 2017,"Anna Sandilands, Ewan McNicol","Drama, Comedy, Documentary"
+Captain Blood 1935,Michael Curtiz,"Action, Adventure"
+"Two Days, One Night 2014","Jean-Pierre Dardenne, Luc Dardenne",Drama
+Great Freedom 2022,Sebastian Meise,Drama
+Eighth Grade 2018,Bo Burnham,"Drama, Comedy"
+A Star Is Born 1954,George Cukor,"Drama, Romance, Musical"
+No End in Sight 2007,Charles Ferguson,"War, Documentary"
+It's a Wonderful Life 1947,Frank Capra,"Drama, Fantasy, Family"
+The Madness of King George 1994,Nicholas Hytner,"Biography, Drama, History, Comedy"
+Phoenix 2015,Christian Petzold,"Drama, History"
+Goodbye Solo 2009,Ramin Bahrani,Drama
+Gunda 2020,Victor Kossakovsky,Documentary
+Western 2015,"Bill Ross IV, Turner Ross","Western, Documentary"
+The Power of the Dog 2021,Jane Campion,Drama
+Stop Making Sense 1984,Jonathan Demme,"Music, Documentary"
+Deep Red 1976,Dario Argento,"Mystery, Thriller, Horror"
+Downhill Racer 1969,Michael Ritchie,"Drama, Sport"
+Alien 1979,Ridley Scott,"Sci-Fi, Thriller, Horror"
+Columbus 2017,Kogonada,"Drama, Comedy, Romance"
+Night of the Living Dead 1968,George A. Romero,Horror
+The Artist 2011,Michel Hazanavicius,Romance
+Yankee Doodle Dandy 1942,Michael Curtiz,"Biography, Drama, Musical"
+Raging Bull 1980,Martin Scorsese,"Biography, Drama, Sport"
+Eternal Sunshine of the Spotless Mind 2004,Michel Gondry,"Drama, Romance"
+The Piano 1993,Jane Campion,"Drama, Romance"
+Of Mice and Men 1940,Lewis Milestone,Drama
+Dead Souls 2018,Bing Wang,Documentary
+Zama 2018,Lucrecia Martel,Drama
+Dick Johnson Is Dead 2020,Kirsten Johnson,"Drama, Documentary"
+High Noon 1952,Fred Zinnemann,"Action, Drama, Thriller, Western"
+Rebel Without a Cause 1955,Nicholas Ray,Drama
+Letters from Iwo Jima 2006,Clint Eastwood,"Drama, History, War"
+The Seventh Continent (1989),Michael Haneke,Drama
+A Woman Under the Influence 1974,John Cassavetes,"Drama, Romance"
+Ghost World 2001,Terry Zwigoff,"Drama, Comedy"
+Return to Seoul 2022,Davy Chou,Drama
+Foreign Correspondent 1940,Alfred Hitchcock,"Mystery, Thriller, Romance, War"
+Show Boat 1936,James Whale,"Drama, Comedy, Romance, Musical"
+The Arbor 2011,Clio Barnard,"Biography, Documentary"
+Long Day's Journey Into Night 2019,Gan Bi,"Drama, Mystery"
+Richard III 1956,Laurence Olivier,"Biography, Drama, History, War"
+Democrats 2015,Camilla Nielsson,Documentary
+The Lion King 1994,"Rob Minkoff, Roger Allers","Adventure, Drama, Animation, Family, Musical"
+4 Little Girls 1997,Spike Lee,"History, Documentary"
+Wild Strawberries 1959,Ingmar Bergman,"Drama, Romance"
+Crime + Punishment 2018,Stephen T. Maing,Documentary
+The Seventh Seal 1958,Ingmar Bergman,"Drama, Fantasy"
+How Green Was My Valley 1941,John Ford,"Drama, Family"
+Azor 2021,Andreas Fontana,Drama
+Y Tu Mamá También 2002,Alfonso Cuarón,"Drama, Comedy"
+Paddington 2 2018,Paul King,"Adventure, Fantasy, Comedy, Animation, Family"
+The Little Mermaid 1989,"John Musker, Ron Clements","Fantasy, Romance, Animation, Family, Musical"
+City Hall 2020,Frederick Wiseman,Documentary
+Capote 2005,Bennett Miller,"Biography, Drama, Crime"
+The Death of Stalin 2018,Armando Iannucci,"Biography, Drama, History, Comedy"
+Miracle on 34th Street 1947,George Seaton,"Drama, Comedy, Family"
+Strangers on a Train 1951,Alfred Hitchcock,"Thriller, Crime, Film-Noir"
+Tulpan 2009,Sergei Dvortsevoy,"Drama, Comedy"
+Manuscripts Don't Burn 2014,Mohammad Rasoulof,Drama
+In Transit 2017,"Albert Maysles, Benjamin Wu, David Usui, Lynn True, Nelson Walker III","Documentary, News"
+"Three Billboards Outside Ebbing, Missouri 2017",Martin McDonagh,"Drama, Comedy, Crime"
+Quest 2017,Jonathan Olshefski,"Music, Family, Documentary"
+Au Revoir les Enfants 1988,Louis Malle,"Drama, War"
+A Film Unfinished 2010,Yael Hersonski,"Drama, History, Documentary"
+Things to Come 2016,Mia Hansen-Løve,Drama
+The Grand Budapest Hotel 2014,Wes Anderson,"Drama, Comedy"
+Winter Sleep 2014,Nuri Bilge Ceylan,Drama
+A Star Is Born 2018,Bradley Cooper,"Drama, Romance, Music, Musical"
+Citizenfour 2014,Laura Poitras,Documentary
+Time Out 2002,Laurent Cantet,Drama
+The Blue Angel (re-release) 2001,Josef von Sternberg,"Drama, Musical"
+Thelma & Louise 1991,Ridley Scott,"Drama, Thriller, Crime"
+Away from Her 2007,Sarah Polley,"Drama, Romance"
+The Fallen Idol (re-release) 2006,Carol Reed,"Drama, Mystery, Thriller"
+The Father 2021,Florian Zeller,Drama
+Fat City 1972,John Huston,"Drama, Sport"
+Foxtrot 2017,Samuel Maoz,Drama
+Howards End 1992,James Ivory,"Drama, Romance"
+The Innocents 1961,Jack Clayton,Horror
+Inside Job 2010,Charles Ferguson,Documentary
+Sweet Country 2018,Warwick Thornton,"Adventure, Drama, History, Thriller, Crime, Western"
+Leave No Trace 2018,Debra Granik,Drama
+Three Colors: White 1994,Krzysztof Kieslowski,"Drama, Comedy, Romance"
+Chicken Run 2000,"Nick Park, Peter Lord","Comedy, Animation, Family"
+The King's Speech 2010,Tom Hooper,"Drama, History"
+Parallel Mothers 2021,Pedro Almodóvar,Drama
+Hell or High Water 2016,David Mackenzie,"Drama, Crime"
+Up 2009,"Bob Peterson, Pete Docter","Adventure, Drama, Comedy, Animation, Family"
+Shirkers 2018,Sandi Tan,Documentary
+Mildred Pierce 1945,Michael Curtiz,"Drama, Mystery, Romance, Crime, Film-Noir"
+45365 2010,"Bill Ross IV, Turner Ross",Documentary
+Tootsie 1982,Sydney Pollack,"Drama, Comedy, Romance"
+Marooned in Iraq 2003,Bahman Ghobadi,Drama
+To Kill a Mockingbird 1962,Robert Mulligan,"Drama, Crime"
+Descendant 2022,Margaret Brown,"History, Documentary"
+Aquarius 2016,Kleber Mendonça Filho,Drama
+"So Long, My Son",Xiaoshuai Wang,Drama
+Apollo 11 2019,Todd Douglas Miller,"History, Documentary"
+Anomalisa 2015,"Charlie Kaufman, Duke Johnson","Drama, Fantasy, Comedy, Romance, Animation"
+Toy Story 2 1999,"Ash Brannon, John Lasseter, Lee Unkrich","Adventure, Fantasy, Comedy, Animation, Family"
+Black Panther 2018,Ryan Coogler,"Action, Adventure, Sci-Fi, Drama"
+The Human Voice 2021,Pedro Almodóvar,"Drama, Short"
+Brooklyn 2015,John Crowley,"Drama, Comedy, Romance"
+Nobody Knows 2005,Hirokazu Koreeda,Drama
+Life Is Sweet 1991,Mike Leigh,"Drama, Comedy"
+Faces 1968,John Cassavetes,Drama
+Mary Poppins 1964,Robert Stevenson,"Fantasy, Comedy, Family, Musical"
+The Lord of the Rings: The Two Towers 2002,Peter Jackson,"Action, Adventure, Fantasy"
+L'Enfant (The Child) 2006,"Jean-Pierre Dardenne, Luc Dardenne","Drama, Romance, Crime"
+Jane Fonda in Five Acts 2018,Susan Lacy,Documentary
+The Conversation 1974,Francis Ford Coppola,"Drama, Mystery, Thriller"
+Good Morning 1962,Yasujiro Ozu,"Drama, Comedy, Family"
+Newtown 2016,Kim A. Snyder,Documentary
+Poetry 2011,Chang-dong Lee,Drama
+Restless Creature: Wendy Whelan 2017,"Adam Schlesinger, Linda Saffire",Documentary
+Birdman or (The Unexpected Virtue of Ignorance) 2014,Alejandro González Iñárritu,"Drama, Comedy"
+Little Women 1994,Gillian Armstrong,"Drama, Romance, Family"
+Aftershock 2022,"Paula Eiselt, Tonya Lewis Lee",Documentary
+Shakespeare in Love 1998,John Madden,"Drama, Comedy, Romance"
+The Awful Truth 1937,Leo McCarey,"Comedy, Romance"
+Can You Ever Forgive Me? 2018,Marielle Heller,"Biography, Drama, Comedy, Crime"
+Wolfwalkers 2020,"Ross Stewart, Tomm Moore","Adventure, Fantasy, Animation, Family"
+It Happened One Night 1934,Frank Capra,"Comedy, Romance"
+The Body Remembers When the World Broke Open 2019,"Elle-Máijá Tailfeathers, Kathleen Hepburn",Drama
+The Missing Picture 2013,Rithy Panh,Documentary
+"I Travel Because I Have to, I Come Back Because I Love You 2011","Karim Ainouz, Marcelo Gomes",Drama
+The Invisible Man 1933,James Whale,"Sci-Fi, Horror"
+Scarface 1932,"Howard Hawks, Richard Rosson","Action, Drama, Thriller, Crime, Film-Noir"
+Of Men and War 2015,Laurent Bécue-Renard,"History, War, Documentary"
+The Long Goodbye 1973,Robert Altman,"Drama, Mystery, Thriller, Comedy, Crime"
+She Wore a Yellow Ribbon 1949,John Ford,Western
+Imitation of Life 1959,Douglas Sirk,Drama
+Pain and Glory 2019,Pedro Almodóvar,Drama
+Genèse (Genesis) 2019,Philippe Lesage,Drama
+The Farthest 2017,Emer Reynolds,"History, Documentary"
+Gomorrah 2009,Matteo Garrone,"Drama, Crime"
+Days 2021,Ming-liang Tsai,Drama
+Who We Are: A Chronicle of Racism in America 2022,"Emily Kunstler, Sarah Kunstler",Documentary
+To Be and to Have 2003,Nicolas Philibert,"Family, Documentary"
+A Night of Knowing Nothing 2022,Payal Kapadia,Documentary
+Halloween 1978,John Carpenter,"Thriller, Horror"
+Eraserhead 1978,David Lynch,Horror
+The Velvet Underground 2021,Todd Haynes,"Music, Documentary"
+Medium Cool 1969,Haskell Wexler,Drama
+Attica 2021,Stanley Nelson,Documentary
+Can You Bring It: Bill T. Jones and D-Man in the Waters 2021,"Rosalynde LeBlanc, Tom Hurwitz",Documentary
+Alcarràs,Carla Simón,Drama
+Fire at Sea 2016,Gianfranco Rosi,Documentary
+The Fugitive 1993,Andrew Davis,"Action, Drama, Mystery, Thriller, Crime"
+F for Fake 1975,"François Reichenbach, Gary Graver, Oja Kodar, Orson Welles",Documentary
+About Elly (2009) 2015,Asghar Farhadi,"Drama, Mystery"
+The Bridge on the River Kwai 1957,David Lean,"Adventure, Drama, War"
+Goldfinger 1965,Guy Hamilton,"Action, Adventure, Thriller"
+Ma Rainey's Black Bottom 2020,George C. Wolfe,"Drama, Music"
+One False Move 1992,Carl Franklin,"Drama, Crime"
+En el Séptimo Día (On the Seventh Day) 2018,Jim McKay,Drama
+Jane 2017,Brett Morgen,"Biography, Documentary"
+Jaws 1975,Steven Spielberg,"Adventure, Thriller, Horror"
+We Are the Best! 2014,Lukas Moodysson,Drama
+Spartacus 1960,Stanley Kubrick,"Adventure, Biography, Drama, History, War"
+Small Axe: Education 2020,Steve McQueen,Drama
+About Endlessness 2021,Roy Andersson,"Drama, Fantasy"
+Back to the Future 1985,Robert Zemeckis,"Adventure, Sci-Fi, Comedy"
+Hope 2021,Maria Sødahl,"Drama, Romance"
+If Beale Street Could Talk 2018,Barry Jenkins,"Drama, Romance, Crime"
+My Journey Through French Cinema 2017,Bertrand Tavernier,Documentary
+Wallace & Gromit: The Curse of the Were-Rabbit 2005,"Nick Park, Steve Box","Adventure, Comedy, Animation, Family"
+The Diary of a Teenage Girl 2015,Marielle Heller,"Drama, Romance"
+Elena 2012,Andrei Zvyagintsev,Drama
+All Is Lost 2013,J.C. Chandor,"Action, Adventure, Drama"
+Hereditary 2018,Ari Aster,"Drama, Mystery, Thriller, Horror"
+Listen to Me Marlon 2015,Stevan Riley,"Biography, Documentary"
+Gideon's Army 2013,Dawn Porter,Documentary
+Odd Man Out 1947,Carol Reed,"Drama, Thriller, Crime"
+Maria Full of Grace 2004,Joshua Marston,"Drama, Thriller, Crime"
+Fateless 2006,Lajos Koltai,Drama
+Happy as Lazzaro 2018,Alice Rohrwacher,Drama
